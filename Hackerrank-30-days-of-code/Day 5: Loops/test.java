@@ -21,3 +21,5 @@ public class Solution {
         scanner.close();
     }
 }
+
+@Override
